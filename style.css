@@ -1048,3 +1048,7 @@ h4 {
     text-align: center;
   }
 }
+
+.footer-links ul li a {
+  color: white !important;
+}
